@@ -4,7 +4,8 @@
 #### В                              
 ##### Е
 ###### Т 
-![image](https://github.com/fitsui/fitsui/assets/140371348/3dec215c-9e50-48d4-b955-f7fa61fbad6c)
+![image](https://github.com/fitsui/fitsui/assets/140371348/3dec215c-9e50-48d4-b955-f7fa61fbad6c) ![IMAGE](https://img.shields.io/badge/build-CODING-black?style=flat-square&logoColor=Black&label=ILIKE&labelColor=black&color=black&cacheSeconds=3600)
+
 ________
 `МОИ КИННЫ:`
 + Mikoto Kayano
