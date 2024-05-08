@@ -15,6 +15,7 @@ ________
 + Augustine Orlov
 + Ena Shinonome
 + Leo Tsukinaga
++ Stan Marsh
 # Список будет обновляться
 ![image](https://github.com/fitsui/fitsui/assets/140371348/0ec859b8-67c3-4429-919c-20f5ed5144c4)
 
