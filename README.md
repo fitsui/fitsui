@@ -1,27 +1,28 @@
-# П  
-## Р 
-### И 
-#### В                              
-##### Е
-###### Т 
-![image](https://github.com/fitsui/fitsui/assets/140371348/3dec215c-9e50-48d4-b955-f7fa61fbad6c) ![IMAGE](https://img.shields.io/badge/build-CODING-black?style=flat-square&logoColor=Black&label=ILIKE&labelColor=black&color=black&cacheSeconds=3600)
+<html>
+<head>
 
-________
-`МОИ КИННЫ:`
-+ Mikoto Kayano
-+ Alexis Ness
-+ Shuichi Saihara
-+ Yoshiki
-+ Augustine Orlov
-+ Ena Shinonome
-+ Leo Tsukinaga
-+ Stan Marsh
-# Список будет обновляться
-![image](https://github.com/fitsui/fitsui/assets/140371348/0ec859b8-67c3-4429-919c-20f5ed5144c4)
-
+</head>
+<body>
+<h1>HELLO!</h1>  
+<img src="https://i.pinimg.com/736x/25/96/a6/2596a660e2f36bae5b1d46750d0b8790.jpg">
+<br>
+<p>________</p>
+<ul>МОИ КИННЫ:
+<li>Mikoto Kayano</li>
+<li> Alexis Ness</li>
+<li>Shuichi Saihara</li>
+<li>Yoshiki</li>
+<li>Augustine Orlov</li>
+<li>Ena Shinonome</li>
+<li>Leo Tsukinaga</li>
+<li>Stan Marsh</li>
+</ul>
+<p id="spisok"># Список будет обновляться</p>  
+  <br>
+<img src="https://i.pinimg.com/736x/cb/f3/b9/cbf3b9e30fed3d3d9fcc45a128fd2f86.jpg">
+<br>
 _________________
-[Распространите](https://ru.pinterest.com/pin/585045807871115291/)
-_______
-![image](https://github.com/fitsui/ggggggrrrrrrrrrrr/assets/140371348/8e219479-6f30-4f07-a64f-4c2022ff9c1f) 
 
 
+</body>
+</html>
