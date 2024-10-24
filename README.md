@@ -7,22 +7,7 @@
 <img src="https://i.pinimg.com/736x/25/96/a6/2596a660e2f36bae5b1d46750d0b8790.jpg">
 <br>
 <p>________</p>
-<ul>МОИ КИННЫ:
-<li>Mikoto Kayano</li>
-<li> Alexis Ness</li>
-<li>Shuichi Saihara</li>
-<li>Yoshiki</li>
-<li>Augustine Orlov</li>
-<li>Ena Shinonome</li>
-<li>Leo Tsukinaga</li>
-<li>Stan Marsh</li>
-</ul>
-<p id="spisok"># Список будет обновляться</p>  
-  <br>
-<img src="https://i.pinimg.com/736x/cb/f3/b9/cbf3b9e30fed3d3d9fcc45a128fd2f86.jpg">
+<h1>(https://fitsui.carrd.co) <- My Card!</h1>
 <br>
-_________________
-
-
-</body>
-</html>
+<h3>OH AND PLAESE CHECK OUT MY QUIZ THAT I FIRSTLY MADE FOR MY FRIENDS BUT LATER I DECIDED TO MAKE IT FOR EVERYONE!!!</h3>
+<h3>(https://uquiz.com/OR36Fq) <---</h3>
