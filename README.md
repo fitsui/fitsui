@@ -9,5 +9,3 @@
 <p>________</p>
 <h1>(https://fitsui.carrd.co) <- My Card!</h1>
 <br>
-<h3>OH AND PLAESE CHECK OUT MY QUIZ THAT I FIRSTLY MADE FOR MY FRIENDS BUT LATER I DECIDED TO MAKE IT FOR EVERYONE!!!</h3>
-<h3>(https://uquiz.com/OR36Fq) <---</h3>
